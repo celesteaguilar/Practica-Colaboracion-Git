@@ -1,1 +1,1 @@
-Modificacion desde main
+Integración resuelta de cambio de Rama 1 y Rama 2
