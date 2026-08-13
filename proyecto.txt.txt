@@ -1,0 +1,2 @@
+Configuración base del proyecto
+Cambio hecho desde rama A
