@@ -1,1 +1,1 @@
-Cambio hecho por Rama 2
+Integración resuelta de cambio de Rama 1 y Rama 2
